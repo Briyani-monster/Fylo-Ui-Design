@@ -240,7 +240,7 @@ header img{
     border-radius:2px;
     outline: none;
     margin-bottom:10px;
-    box-shadow: 2px 2px 5px hsl(243, 87%, 12%);
+    
 }
 .contact-us form button{
     text-decoration: none;
@@ -248,11 +248,11 @@ header img{
     font-weight: 800;
     color:hsl(240, 75%, 98%);
     background-color:  hsla(224, 93%, 58%,0.8);
-    padding:2px 10px;
+    padding:10px 10px;
     border:none;
     border-radius: 2px;
     cursor: pointer;
-    box-shadow: 2px 2px 5px hsl(243, 87%, 12%) ;
+    
 }
 .contact-us form button:hover{
     
@@ -560,7 +560,6 @@ header img{
     border-radius:2px;
     outline: none;
     margin-bottom:10px;
-    box-shadow: 2px 2px 5px hsl(243, 87%, 12%);
 }
 .contact-us form button{
     text-decoration: none;
@@ -568,11 +567,10 @@ header img{
     font-weight: 800;
     color:hsl(240, 75%, 98%);
     background-color:  hsla(224, 93%, 58%,0.8);
-    padding:2px 10px;
+    padding:10px 10px;
     border:none;
     border-radius: 2px;
     cursor: pointer;
-    box-shadow: 2px 2px 5px hsl(243, 87%, 12%) ;
 }
 .contact-us form button:hover{
     
@@ -801,7 +799,6 @@ header img{
     text-align: center;
     font-family:var(--body);
     position:relative;
-    /* border:1px solid red; */
 }
 .content-text a::after{
     content: "";
@@ -895,7 +892,6 @@ header img{
     border-radius:2px;
     outline: none;
     margin-bottom:10px;
-    box-shadow: 2px 2px 5px hsl(243, 87%, 12%);
 }
 .contact-us form button{
     text-decoration: none;
@@ -904,11 +900,10 @@ header img{
     font-weight: 800;
     color:hsl(240, 75%, 98%);
     background-color:  hsla(224, 93%, 58%,0.8);
-    padding:5px 15px;
+    padding:10px 10px;
     border:none;
     border-radius: 2px;
     cursor: pointer;
-    box-shadow: 2px 2px 5px hsl(243, 87%, 12%) ;
 }
 .contact-us form button:hover{
     
