@@ -2,4 +2,4 @@
 
 
 
-link to website  https://gsashish.github.io/Fylo-Ui-Design/
+link to website  https://briyani-monster.github.io/Fylo-Ui-Design/
